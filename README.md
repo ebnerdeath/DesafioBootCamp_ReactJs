@@ -11,3 +11,29 @@ Esse é um guia básico de instalação do FrontEnd
 ### Tela de login
 
 ![Login](public/readme/login.png)
+
+### Tela de SignUp
+
+![SignUp](public/readme/signup.png)
+
+### Tela de Preferences
+
+![Preferences](public/readme/preferences.png)
+
+### Tela de Dashboard
+
+![Preferences](public/readme/dashboard.png)
+
+### Tela de Search
+
+![Preferences](public/readme/search.png)
+
+### Tela de Search com a pesquisa efetuada
+
+![Preferences](public/readme/search1.png)
+
+### Tela de NewMeetup
+
+![Preferences](public/readme/newmeetup.png)
+
+
